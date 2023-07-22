@@ -1,0 +1,22 @@
+.sidebar {
+  background-color: black;
+  color: #aaa;
+  font-weight: 500;
+  width: 120px;
+  height: 100vh;
+  border: 1px solid black;
+  position: fixed;
+}
+
+li {
+  list-style-type: none;
+  height: 44px;
+  padding-left: 10px;
+  line-height: 44px;
+  border-bottom: 1px solid #aaa;
+}
+
+li:hover {
+  background-color: #5c5c5c;
+  color: white;
+}
