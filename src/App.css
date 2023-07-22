@@ -1,7 +1,8 @@
 #root {
-  max-width: 1280px;
+  width: 100vw;
 }
 
 .main-content {
   margin-left: 120px;
+  width: calc(100% - 120px);
 }

@@ -1,0 +1,44 @@
+.content {
+  padding: 0 80px;
+  text-align: center;
+}
+
+.banner {
+  background-color: #efefef;
+  padding: 15px 100px;
+  margin-bottom: 40px;
+}
+
+.banner p {
+  font-size: 12px;
+}
+
+.banner h3 {
+  font-size: 16px;
+}
+
+.wrap-item {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 -8px 100px;
+}
+
+.wrap-item h2 {
+  font-size: 18px;
+  margin: 0;
+  text-align: left;
+}
+
+.wrap-item p {
+  font-size: 12px;
+  margin: 0;
+  text-align: left;
+}
+
+.item {
+  margin: 0 8px;
+}
+
+.sub-item {
+  display: flex;
+}
